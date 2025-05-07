@@ -13,44 +13,44 @@ Currently pursuing a BSc in Data Analytics and Business Computing at Middlesex U
 
 **Middlesex University Dubai**  
 - BSc in Data Analytics and Business Computing  
-  (_Expected Graduation Year: TBD_)
+  (_Expected Graduation: 2027_)
 
 ---
 
 ## 🧠 Technical Skills
 
-- **Languages & Tools:** Python, SQL (PostgreSQL)
-- **BI Tools:** Tableau, Excel
+- **Languages & Tools:** Python, SQL (PostgreSQL), pgAdmin
+- **Data Analysis & BI Tools:** Excel, Tableau
 
 ---
 
 ## 📊 Projects
 
-### 📈 Excel
-- **Coffee Sales Dashboard**  
-  Analyzed sales performance across different product categories and time periods using pivot tables and charts.
+### 📈 Excel Projects
+- **☕ Coffee Sales Dashboard**  
+  Built a dynamic dashboard using PivotTables and slicers to analyze monthly sales trends, product category performance, and revenue growth. Helped identify top-selling coffee variants and seasonal patterns.
 
-- **Vrinda Store Analysis**  
-  Evaluated inventory and revenue patterns to identify top-selling products and high-performing months.
-
----
-
-### 🛒 PostgreSQL (pgAdmin)
-- **Retail Sales Analysis (Monde Coffee Project)**  
-  Designed SQL queries to analyze daily and monthly sales, customer behavior, and product trends from raw transactional data.
-
-- **Library Management System**  
-  Created and queried a relational database to manage book inventory, borrowers, and lending transactions.
+- **🛍️ Vrinda Store Analysis**  
+  Conducted in-depth product and sales analysis using advanced Excel functions like VLOOKUP, INDEX-MATCH, and conditional formatting. Provided actionable insights into low-stock items and underperforming categories.
 
 ---
 
-### ✈️ Tableau
-- **British Airways Dashboard**  
-  Developed interactive visualizations for flight routes, customer satisfaction, and booking trends.
+### 🛒 PostgreSQL Projects (pgAdmin)
+- **📊 Retail Sales Analysis (Monde Coffee Project)**  
+  Executed complex SQL queries on transactional sales data to uncover sales performance by region, product type, and customer segments. Used grouping, joins, and window functions to create weekly and monthly summaries.
+
+- **📚 Library Management System**  
+  Designed a normalized database schema to track books, borrowers, lending history, and due dates. Implemented CRUD operations with SQL and optimized queries for efficient record retrieval.
+
+---
+
+### ✈️ Tableau Project
+- **🧳 British Airways Dashboard**  
+  Created a visually compelling Tableau dashboard that showcased flight route performance, booking trends, and customer feedback metrics. Implemented filters, charts, and interactive maps to allow real-time exploration of key KPIs.
 
 ---
 
 ## 📫 Contact
 
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- LinkedIn: [your-linkedin-url]
+- **GitHub:** [codewithharoon](https://github.com/codewithharoon)  
+- **LinkedIn:** [Muhammad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-36bb68236/)
